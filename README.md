@@ -1,0 +1,1 @@
+# ssis-elasticsearch-component
